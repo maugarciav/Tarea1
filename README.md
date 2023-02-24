@@ -1,6 +1,6 @@
-#Desarollo Web
+	#** Desarollo Web **
 
-Tarea 2 
+##Tarea 2 
 
 Crea una página: index.html con la estructura de las nuevas etiquetas de html 5 :   <header> <nav> <aside> <article> <section> <footer>  
 
@@ -9,7 +9,7 @@ El contenido deberá ser tu curriculum. Por el momento no utilizaremos nada de C
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-Tarea 2 
+  ##Tarea 2 
 
 Utilizando como base la tarea #1, modifica el curriculum incorporando elementos de CSS. Utiliza un css externo.
 
